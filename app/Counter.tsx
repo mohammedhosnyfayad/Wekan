@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-export default function CounterNum({ target }) {
+export default function CounterNum({ target }: { target: number }) {
   const [num, setNum] = useState(0);
 
 useEffect(function(){
