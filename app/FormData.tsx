@@ -28,7 +28,7 @@ function handleChange(e:any) {
 function handleSubmit(e:any) {
   e.preventDefault();
 
-  const whatsappNumber = "201018078546";
+  const whatsappNumber = "201004991024";
 
   const whatsappMessage = `
 New Project Request
@@ -67,7 +67,7 @@ Desired Goal: ${formData.desiredGoal}
 
 
   return (
-    <section id="formdata" className="min-h-screen  py-12 px-4 md:px-8">
+    <section id="form" className="min-h-screen  py-12 px-4 md:px-8">
       <div className="mx-auto max-w-6xl">
         
         {/* Section Header */}
