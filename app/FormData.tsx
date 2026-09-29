@@ -67,7 +67,7 @@ Desired Goal: ${formData.desiredGoal}
 
 
   return (
-    <section id="form" className="min-h-screen  py-12 px-4 md:px-8">
+    <section id="formdata" className="min-h-screen  py-12 px-4 md:px-8">
       <div className="mx-auto max-w-6xl">
         
         {/* Section Header */}

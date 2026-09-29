@@ -1,6 +1,8 @@
 "use client";
 import CounterNum from "../Counter";
 import { motion } from "motion/react"
+import Link from "next/link";
+
 export default function About() {
   return (
 <>
@@ -50,7 +52,7 @@ export default function About() {
         type="button"
         className="rounded-full bg-[#ff383e] px-6 py-3 text-sm font-semibold uppercase text-white shadow-md transition-colors hover:bg-[#f5141c] focus:outline-none sm:px-7"
       >
-        More about
+        <Link href="services">more about</Link>
       </button>
     </motion.div>
 

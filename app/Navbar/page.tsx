@@ -15,10 +15,15 @@ export default function Navbar() {
     // let number = 0;
 
   const pathname = usePathname();
-
+  console.log(pathname);
+  
 
 
       let [isopen , setisopen] = useState(false)
+
+ useEffect(function () {
+  setisopen(false);
+}, [pathname]);
     
   return (
  <div>

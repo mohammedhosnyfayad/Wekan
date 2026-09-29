@@ -169,7 +169,7 @@ At <span className="bg-[#ff383e] px-2">WEKAN</span>, we are a specialized market
 
   <div  className="content-cards flex  flex-col md:flex-row    m-5 justify-around">
     
-<div className="max-w-md md:ms-4 bg-white rounded-2xl hover:-rotate-3 transition duration-300 p-8 shadow-sm border border-gray-100 font-sans">
+<div className="max-w-md md:ms-4 mb-3 lg:mb-0  bg-white rounded-2xl hover:-rotate-3 transition duration-300 p-8 shadow-sm border border-gray-100 font-sans">
   <div className="w-14 h-14 bg-blue-50/60 rounded-full flex items-center justify-center text-blue-300 text-6xl font-serif mb-3 select-none">
     “
   </div>
@@ -184,7 +184,7 @@ At <span className="bg-[#ff383e] px-2">WEKAN</span>, we are a specialized market
     </div>
   </div>
 </div>
-<div className="max-w-md md:ms-4 bg-white rounded-2xl hover:-translate-y-3  transition duration-300 p-8 shadow-sm border border-gray-100 font-sans">
+<div className="max-w-md md:ms-4 mb-3 lg:mb-0 bg-white rounded-2xl hover:-translate-y-3  transition duration-300 p-8 shadow-sm border border-gray-100 font-sans">
   <div className="w-14 h-14 bg-blue-50/60 rounded-full flex items-center justify-center text-blue-300 text-6xl font-serif mb-3 select-none">
     “
   </div>
@@ -199,7 +199,7 @@ At <span className="bg-[#ff383e] px-2">WEKAN</span>, we are a specialized market
     </div>
   </div>
 </div>
-<div className="max-w-md md:ms-4 bg-white rounded-2xl hover:rotate-3 transition duration-300 p-8 shadow-sm border border-gray-100 font-sans">
+<div className="max-w-md md:ms-4 mb-3 lg:mb-0 bg-white rounded-2xl hover:rotate-3 transition duration-300 p-8 shadow-sm border border-gray-100 font-sans">
   <div className="w-14 h-14 bg-blue-50/60 rounded-full flex items-center justify-center text-blue-300 text-6xl font-serif mb-3 select-none">
     “
   </div>

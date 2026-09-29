@@ -29,7 +29,7 @@ export default function page() {
   function handleSubmit(e:any) {
     e.preventDefault();
   
-    const whatsappNumber = "201018078546";
+    const whatsappNumber = "201004991024";
   
     const whatsappMessage = `
   New Project Request

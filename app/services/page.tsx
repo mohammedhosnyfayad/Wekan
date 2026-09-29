@@ -37,7 +37,8 @@ export default function Services() {
       Paid advertising
     </h1>
     <p className=" text-center uppercase text-black text-[11px] leading-relaxed sm:text-sm  p-2 md:p-3 md:text-base">
-    is more than simply appearing in front of an audience; it is a strategic way to deliver your message to the right people, at the right time. We build campaigns around a deep understanding of your audience and goals—from platform selection and targeting to content creation and performance analysis—turning your advertising budget into stronger visibility, smarter reach, and meaningful results
+      Advertising is more than reaching an audience; it’s about delivering the right message to the right people at the right time. We build targeted campaigns that turn your advertising budget into stronger reach, visibility, and meaningful results.
+
     </p>
   </motion.div>
 </div>
@@ -65,11 +66,8 @@ export default function Services() {
       Visual Impact
     </h1>
     <p className=" text-center uppercase text-black text-[11px] leading-relaxed sm:text-sm  p-4 md:p-3 md:text-base">
-      We turn ideas into visual content that captures attention and leaves a
-      lasting impression. From social media designs and logos to cinematic
-      wide-format videos and engaging reels, we create cohesive visual
-      content that reflects your brand identity and communicates your
-      message with clarity and creativity
+      We turn ideas into visual content that captures attention and reflects your brand. From social media designs and logos to videos and reels, we create engaging visuals that communicate your message with clarity and creativity.
+
     </p>
   </motion.div>
 </div>
@@ -97,7 +95,8 @@ export default function Services() {
       Website Design & Development
     </h1>
     <p className=" text-center uppercase text-black text-[11px] leading-relaxed sm:text-sm  p-4 md:p-3 md:text-base">
-We create websites that do more than look beautiful—they are built to make an impression and achieve a purpose. By combining modern design, seamless user experience, and powerful development, we deliver fast, responsive websites that reflect your brand and elevate your digital presence.    </p>
+      We create modern websites that combine beautiful design, smooth user experience, and powerful development. Fast, responsive, and built to reflect your brand and strengthen your digital presence.
+</p>
   </motion.div>
 </div>
 
